@@ -12,3 +12,8 @@ Com a chave gerada, use o comando cat e ao lado coloque sua chave .pub igual o e
 O próximo passo sera você ir em seu git e depois em sttings:
 
 ![Captura de tela de 2022-11-22 19-55-05](https://user-images.githubusercontent.com/112590440/203438412-774219d6-c707-4f44-b27a-0abe805c4301.png)
+
+Dentro de settings você ira neste acesso:
+
+![image](https://user-images.githubusercontent.com/112590440/203439359-805d61bf-7103-434c-bc06-736f7da4d60e.png)
+
