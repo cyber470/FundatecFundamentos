@@ -17,3 +17,8 @@ Dentro de settings você ira neste acesso:
 
 ![image](https://user-images.githubusercontent.com/112590440/203439359-805d61bf-7103-434c-bc06-736f7da4d60e.png)
 
+Dentro deste acesso você ira em (New ssh key).
+
+![Captura de tela de 2022-11-22 20-10-43](https://user-images.githubusercontent.com/112590440/203439841-529f850b-0354-40db-8b4c-33886bdb4aad.png)
+
+
