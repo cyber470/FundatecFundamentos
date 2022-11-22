@@ -8,3 +8,6 @@ Depois de o comando ls para ver suas chaves criadas como o exemplo a baixo:
 
 Com a chave gerada, use o comando cat e ao lado coloque sua chave .pub igual o exemplo a baixo:
 ![Captura de tela de 2022-11-22 19-50-10](https://user-images.githubusercontent.com/112590440/203437228-b2fc0b26-7a01-412a-bd7a-e7dafa9f30cc.png)
+
+O próximo sera você ir em seu git e depois em sttings:
+![Captura de tela de 2022-11-22 19-55-05](https://user-images.githubusercontent.com/112590440/203438412-774219d6-c707-4f44-b27a-0abe805c4301.png)
