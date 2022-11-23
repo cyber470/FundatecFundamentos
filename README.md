@@ -25,6 +25,10 @@ Como utilizar o Git
 
 ![image](https://user-images.githubusercontent.com/112590440/203441444-5b6f3280-55b5-4b81-a86a-bd3fdd323f3b.png)
 
+8-Digite code . para abrir o VS Code:
+
+$ code .
+
 
 
 
