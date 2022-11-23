@@ -32,9 +32,7 @@ $ code .
 9-Dentro do VS code crie uma nova pasta chamada config e dentro do config digite o seguinte comando:
 
 Host github.com
-     
-     Hostname      ssh.github.com
-    
+    Hostname      ssh.github.com
     Port          443
 
 
