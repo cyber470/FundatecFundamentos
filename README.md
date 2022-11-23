@@ -32,6 +32,11 @@ $ code .
 9-Dentro do VS code crie uma nova pasta chamada config e dentro do config digite o seguinte comando:
 ![Captura de tela de 2022-11-22 21-08-55](https://user-images.githubusercontent.com/112590440/203445764-fe99d7ab-5d36-4598-95f1-7fd4774702ff.png)
 
+10-Após configurar a config, devemos listar os arquivos, utilizando o comando ls -al:
+![Captura de tela de 2022-11-22 21-12-27](https://user-images.githubusercontent.com/112590440/203446115-283eea4f-ed3a-4218-a99e-d2f58b199f85.png)
+
+
+
  
 
 
