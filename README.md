@@ -38,6 +38,10 @@ $ code .
 11-Depois usar o git conffig para por seu e-mail e seu nome do git hub que nem o exemplo a baixo:
 ![Captura de tela de 2022-11-22 21-13-49](https://user-images.githubusercontent.com/112590440/203446334-6c379c77-7c13-4145-b5be-61c7eb395b0a.png)
 
+12- Agora o ultimo passo é voce criar uma branch
+![image](https://user-images.githubusercontent.com/112590440/203447365-828719dc-8393-4705-81eb-8b07582e394d.png)
+
+Agora sua branch esta pronta para voce usar ...
 
 
 
